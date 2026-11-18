@@ -1,8 +1,8 @@
 # 마이가든 설치
 
-**현재 버전 1.3.4 · 빌드 19** · Android 9(API 28) 이상
+**현재 버전 1.3.5 · 빌드 20** · Android 9(API 28) 이상
 
-[APK 다운로드](https://github.com/esbpark/mygarden-releases/releases/latest/download/MyGarden.apk) · [빌드 19 릴리스](https://github.com/esbpark/mygarden-releases/releases/tag/v1.3.4-build19) · [SHA-256 파일](https://github.com/esbpark/mygarden-releases/releases/latest/download/SHA256SUMS.txt)
+[APK 다운로드](https://github.com/esbpark/mygarden-releases/releases/latest/download/MyGarden.apk) · [빌드 20 릴리스](https://github.com/esbpark/mygarden-releases/releases/tag/v1.3.5-build20) · [SHA-256 파일](https://github.com/esbpark/mygarden-releases/releases/latest/download/SHA256SUMS.txt)
 
 ![마이가든 APK 설치 QR](assets/install-qr.png)
 
@@ -10,13 +10,13 @@
 2. 내려받은 `MyGarden.apk`를 엽니다. Android에서 요청하면 해당 브라우저 또는 파일 앱에 이 앱 설치를 허용합니다.
 3. **설치** 또는 **업데이트**를 누르고 마이가든을 엽니다.
 
-빌드 19 SHA-256
+빌드 20 SHA-256
 
 ```text
-af8ab30ecf7aba7791b378bd62531d303568f5b65a8664de1398f649aa8e998c
+3d15e4bfd1eb052fd42848e67240328d4384a58f09471191b97a6a8c285e6d09
 ```
 
-빌드 19는 Android 디버그 인증서로 서명되었습니다. 기존 앱과 서명이 다르면 Android가 업데이트를 거부합니다. 기존 앱에 저장한 데이터가 있다면 제거하기 전에 보존 방법을 확인하세요.
+빌드 20는 Android 디버그 인증서로 서명되었습니다. 기존 앱과 서명이 다르면 Android가 업데이트를 거부합니다. 기존 앱에 저장한 데이터가 있다면 제거하기 전에 보존 방법을 확인하세요.
 
 빌드 6 이상에서는 마이가든을 열 때 최신 버전을 확인합니다. 새 버전 안내에서 **업데이트**를 누른 후 Android 설치 화면에서 확인하세요. 앱의 **설정**에서 현재 버전과 빌드 번호를 확인할 수 있습니다.
 
